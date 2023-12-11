@@ -1,0 +1,49 @@
+body {
+	font-family: "Arial",sans-serif;
+	background-color: #deedfc;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.story_header{
+	font-family: Basier, sans-serif
+	font-weight: bold;
+	font-size: 24px;
+	color:#274869;
+	letter-spacing: 1px;
+}
+
+.article{
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.byline{
+	font-family: Basier, sans-serif;
+	font-size: 17px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.graf{
+	font-family: Basier, sans-serif
+	font-size: 200px;
+	color: black;
+	background-color: #deedfc;
+}
+
+.vis1{
+	max-width: 800px;
+	background-color: #ffffff;
+}
+
+.vis2{
+	max-width: 800px;
+	background-color: #ffffff;
+}
+
+.vis3{
+	max-width: 800px;
+	background-color: #ffffff;
+}
