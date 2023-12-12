@@ -1,12 +1,12 @@
 body {
-	font-family: "Arial",sans-serif;
-	background-color: #deedfc;
+	font-family: Georgia, serif;
+	background-color: #ebf6fc;
 	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;
 }
 .story_header{
-	font-family: Basier, sans-serif
+	font-family: Georgia, serif;
 	font-weight: bold;
 	font-size: 24px;
 	color:#274869;
@@ -15,12 +15,12 @@ body {
 
 .article{
 	max-width: 900px;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 0.05%;
+	margin-right: 0.05%;
 }
 
 .byline{
-	font-family: Basier, sans-serif;
+	font-family: Georgia, serif;
 	font-size: 17px;
 	font-style: italic;
 	font-weight: bold;
@@ -30,20 +30,29 @@ body {
 	font-family: Basier, sans-serif
 	font-size: 200px;
 	color: black;
-	background-color: #deedfc;
+	background-color: #ebf6fc;
+	line-height: 25px;
 }
 
 .vis1{
 	max-width: 800px;
-	background-color: #ffffff;
+	background-color: #f5fbff;
 }
 
 .vis2{
 	max-width: 800px;
-	background-color: #ffffff;
+	background-color: #f5fbff;
 }
 
 .vis3{
 	max-width: 800px;
-	background-color: #ffffff;
+	background-color: #f5fbff;
+}
+a{
+	color:blue;
+}
+.postdate{
+	font-style: italic;
+	font-size: 12px;
+	font-weight: normal;
 }
